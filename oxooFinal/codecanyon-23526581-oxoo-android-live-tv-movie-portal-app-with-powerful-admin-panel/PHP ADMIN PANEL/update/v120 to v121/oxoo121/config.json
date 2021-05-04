@@ -1,0 +1,34 @@
+{
+  "directories": [
+     {
+      "title": "uploads/temp"
+    }
+  ],
+  "sql_file": "",
+  "files": [
+    {
+      "from_dir": "update/oxoo121/config/routes.php",
+      "to_dir": "application/config/routes.php"
+    },
+    {
+      "from_dir": "update/oxoo121/controllers/Legacy_api.php",
+      "to_dir": "application/controllers/Legacy_api.php"
+    },
+    {
+      "from_dir": "update/oxoo121/models/Legacy_api_model.php",
+      "to_dir": "application/models/Legacy_api_model.php"
+    },
+    {
+      "from_dir": "update/oxoo121/views/admin/api_setting.php",
+      "to_dir": "application/views/admin/api_setting.php"
+    },
+    {
+      "from_dir": "update/oxoo121/views/admin/episodes_manage.php",
+      "to_dir": "application/views/admin/episodes_manage.php"
+    },
+    {
+      "from_dir": "update/oxoo121/views/admin/file_and_download.php",
+      "to_dir": "application/views/admin/file_and_download.php"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "directories": [
+     {
+      "title": "uploads/temp"
+    }
+  ],
+  "sql_file": "",
+  "files": [
+    {
+      "from_dir": "update/oxoo127/files/controllers/rest_api/V100.php",
+      "to_dir": "application/controllers/rest_api/V100.php"
+    },
+    {
+      "from_dir": "update/oxoo127/files/models/Api_v100_model.php",
+      "to_dir": "application/models/Api_v100_model.php"
+    },
+    {
+      "from_dir": "update/oxoo127/files/uploads/videos/blank.mp4",
+      "to_dir": "uploads/videos/blank.mp4"
+    }
+  ]
+}

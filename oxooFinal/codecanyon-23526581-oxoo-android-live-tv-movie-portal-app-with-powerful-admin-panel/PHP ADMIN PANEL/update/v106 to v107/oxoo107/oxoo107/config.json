@@ -1,0 +1,18 @@
+{
+  "directories": [
+   {
+     "title" : "uploads/temp"
+   }
+  ],
+  "sql_file": "",
+  "files": [
+    {
+        "from_dir"    : "update/oxoo107/views/admin/tvseries_add.php",
+        "to_dir"  : "application/views/admin/tvseries_add.php"
+    },
+    {
+        "from_dir"    : "update/oxoo107/views/admin/videos_add.php",
+        "to_dir"  : "application/views/admin/videos_add.php"
+    }
+  ]
+}

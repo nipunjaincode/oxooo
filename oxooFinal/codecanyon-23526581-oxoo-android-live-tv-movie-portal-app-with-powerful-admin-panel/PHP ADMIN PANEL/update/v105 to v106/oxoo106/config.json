@@ -1,0 +1,38 @@
+{
+  "directories": [
+   {
+     "title" : "uploads/temp"
+   }
+  ],
+  "sql_file": "",
+  "files": [
+    {
+        "from_dir"    : "update/oxoo106/controllers/Admin.php",
+        "to_dir"  : "application/controllers/Admin.php"
+    },
+    {
+        "from_dir"    : "update/oxoo106/controllers/Api.php",
+        "to_dir"  : "application/controllers/Api.php"
+    },
+    {
+        "from_dir"    : "update/oxoo106/models/Api_model.php",
+        "to_dir"  : "application/models/Api_model.php"
+    },
+    {
+        "from_dir"    : "update/oxoo106/views/admin/admob_setting.php",
+        "to_dir"  : "application/views/admin/admob_setting.php"
+    },
+    {
+        "from_dir"    : "update/oxoo106/views/admin/episodes_manage.php",
+        "to_dir"  : "application/views/admin/episodes_manage.php"
+    },
+    {
+        "from_dir"    : "update/oxoo106/views/admin/file_and_download.php",
+        "to_dir"  : "application/views/admin/file_and_download.php"
+    },
+    {
+        "from_dir"    : "update/oxoo106/views/admin/ima_ads_setting.php",
+        "to_dir"  : "application/views/admin/ima_ads_setting.php"
+    }
+  ]
+}
